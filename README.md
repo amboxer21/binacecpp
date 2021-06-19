@@ -1,4 +1,4 @@
-This repository has been modified by Anthony Guevara. If you want a working example then cd into the example dir and run the example executable. I had to madify the makefile in the example dir in order to get it to compile. 
+This repository has been modified by Anthony Guevara. If you want a working example then cd into the example dir and run the example executable. I had to modify the makefile in the example dir in order to get it to compile. 
 You can rebuild it by running make from inside the example directory. This is only a working code base that queries the exchanges and does not make 
 any automated decisions. 
 
